@@ -1,5 +1,5 @@
 # Proyecto Practicas Profesionales
-## Universida Veracruzana
+
 
 Repositorio para el proyecto de Principios de Construcción de Software y Principios de Diseño
 
@@ -9,5 +9,12 @@ Repositorio para el proyecto de Principios de Construcción de Software y Princi
        
        
        
-## Bibliotecas externas:
-       * Mysql connector
+## Bibliotecas externas requeridas:
+       - Mysql connector
+       
+## Integrantes:
+       - Angel Adrian Camal Garcia
+       - Jose Luis Padilla Cruz
+       - Jose Luis Carbajal Pachecho
+
+Universidad Veracruzana
