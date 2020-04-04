@@ -10,11 +10,11 @@ Repositorio para el proyecto de Principios de Construcción de Software y Princi
        
        
 ## Bibliotecas externas requeridas:
-       - Mysql connector
+  - Mysql connector
        
 ## Integrantes:
-       - Angel Adrian Camal Garcia
-       - Jose Luis Padilla Cruz
-       - Jose Luis Carbajal Pachecho
+  - Angel Adrian Camal Garcia
+  - Jose Luis Padilla Cruz
+  - Jose Luis Carbajal Pachecho
 
 Universidad Veracruzana
