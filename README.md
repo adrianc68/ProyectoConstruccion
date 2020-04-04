@@ -1,7 +1,12 @@
-# ProyectoConstruccion
-Repositorio para el proyecto de Principios de Construcción de Software
+# Universidad Veracruzana
+# Proyecto Practicas Profesionales
+Repositorio para el proyecto de Principios de Construcción de Software y Principios de Diseño
 
-    Modificación realizada el dia 13 de marzo del 2020.
+
+
+
        
        
-    Universidad Veracruzana
+       
+## Bibliotecas externas:
+       * Mysql connector
