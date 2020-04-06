@@ -1,4 +1,4 @@
-package org.user;
+package org.domain;
 
 public class Coordinator extends Person {
     private int cubicle;
@@ -18,6 +18,14 @@ public class Coordinator extends Person {
 
     public void setStaff_number(String staff_number) {
         this.staff_number = staff_number;
+    }
+
+    @Override
+    public String toString() {
+        return "Coordinator{" +
+                "cubicle=" + cubicle +
+                ", staff_number='" + staff_number + '\'' +
+                '}';
     }
 
 }

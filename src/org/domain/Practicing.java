@@ -1,8 +1,11 @@
-package org.user;
+package org.domain;
+
+import java.util.ArrayList;
 
 public class Practicing extends Person{
     private String enrollment;
     private Project project;
+    private ArrayList<Project>  selectedProjects;
     private Professor professor;
 
     public String getEnrollment() {

@@ -1,4 +1,4 @@
-package org.user;
+package org.domain;
 
 public class Professor extends Person {
     private int cubicle;

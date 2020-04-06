@@ -1,4 +1,4 @@
-package org.user;
+package org.domain;
 
 import java.util.ArrayList;
 
@@ -8,7 +8,6 @@ public class Project {
     private String name;
     private String generalDescription;
     private String generalPurpose;
-    private String methodology;
     private String schedule;
     private String chargeResponsable;
     private String nameResponsable;
@@ -16,8 +15,8 @@ public class Project {
     private Company company;
     private ArrayList<String> mediateObjectives;
     private ArrayList<String> resources;
+    private ArrayList<String> methodologies;
     private ArrayList<String> activities;
-    private ArrayList<String> features;
     private ArrayList<String> responsibilities;
 
     public int getId() {
@@ -58,14 +57,6 @@ public class Project {
 
     public void setGeneralPurpose(String generalPurpose) {
         this.generalPurpose = generalPurpose;
-    }
-
-    public String getMethodology() {
-        return methodology;
-    }
-
-    public void setMethodology(String methodology) {
-        this.methodology = methodology;
     }
 
     public String getSchedule() {
@@ -132,20 +123,20 @@ public class Project {
         this.activities = activities;
     }
 
-    public ArrayList<String> getFeatures() {
-        return features;
-    }
-
-    public void setFeatures(ArrayList<String> features) {
-        this.features = features;
-    }
-
     public ArrayList<String> getResponsibilities() {
         return responsibilities;
     }
 
     public void setResponsibilities(ArrayList<String> responsibilities) {
         this.responsibilities = responsibilities;
+    }
+
+    public ArrayList<String> getMethodologies() {
+        return methodologies;
+    }
+
+    public void setMethodologies(ArrayList<String> methodologies) {
+        this.methodologies = methodologies;
     }
 
 }

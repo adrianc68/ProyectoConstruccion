@@ -1,4 +1,4 @@
-package org.user;
+package org.domain;
 
 public class Course {
     private int id;
@@ -36,6 +36,16 @@ public class Course {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Course{" +
+                "id=" + id +
+                ", NRC='" + NRC + '\'' +
+                ", period='" + period + '\'' +
+                ", name='" + name + '\'' +
+                '}';
     }
 
 }

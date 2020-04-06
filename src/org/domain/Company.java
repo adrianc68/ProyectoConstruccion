@@ -1,17 +1,28 @@
-package org.user;
+package org.domain;
 
 import java.util.ArrayList;
 
 public class Company {
+    private int id;
     private String name;
     private String address;
     private String city;
     private String state;
     private String email;
+    private String phoneNumber;
+    private int directUsers;
+    private int indirectUsers;
     private Sector sector;
     private Course course;
     private Coordinator coordinator;
-    private ArrayList<String> phoneNumber;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 
     public String getName() {
         return name;
@@ -53,12 +64,36 @@ public class Company {
         this.email = email;
     }
 
+    public int getDirectUsers() {
+        return directUsers;
+    }
+
+    public void setDirectUsers(int directUsers) {
+        this.directUsers = directUsers;
+    }
+
+    public int getIndirectUsers() {
+        return indirectUsers;
+    }
+
+    public void setIndirectUsers(int indirectUsers) {
+        this.indirectUsers = indirectUsers;
+    }
+
     public Sector getSector() {
         return sector;
     }
 
     public void setSector(Sector sector) {
         this.sector = sector;
+    }
+
+    public String getPhoneNumber() {
+        return phoneNumber;
+    }
+
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
     }
 
     public Course getCourse() {
@@ -77,12 +112,21 @@ public class Company {
         this.coordinator = coordinator;
     }
 
-    public ArrayList<String> getPhoneNumber() {
-        return phoneNumber;
+    @Override
+    public String toString() {
+        return "Company{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", address='" + address + '\'' +
+                ", city='" + city + '\'' +
+                ", state='" + state + '\'' +
+                ", email='" + email + '\'' +
+                ", phoneNumber='" + phoneNumber + '\'' +
+                ", directUsers=" + directUsers +
+                ", indirectUsers=" + indirectUsers +
+                ", sector=" + sector +
+                ", course=" + course +
+                ", coordinator=" + coordinator +
+                '}';
     }
-
-    public void setPhoneNumber(ArrayList<String> phoneNumber) {
-        this.phoneNumber = phoneNumber;
-    }
-
 }

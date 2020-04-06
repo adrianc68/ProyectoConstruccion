@@ -1,4 +1,4 @@
-package org.user;
+package org.domain;
 
 import java.io.File;
 import java.util.HashMap;

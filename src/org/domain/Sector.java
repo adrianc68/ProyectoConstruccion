@@ -1,9 +1,9 @@
-package org.user;
+package org.domain;
 
 public enum Sector {
-        PRIMARY("Primario"),
-        SECONDARY("Secundario"),
-        TERTIARY("Terciario");
+        PRIMARY("Primary"),
+        SECONDARY("Secondary"),
+        TERTIARY("Tertiary");
 
         private String sector;
 
