@@ -1,7 +1,8 @@
-# ProyectoConstruccion
-Repositorio para el proyecto de Principios de Construcción de Software
+Linea 2
 
-    Modificación realizada el dia 13 de marzo del 2020.
-       
-       
-    Universidad Veracruzana
+
+
+# ProyectoConstruccion
+Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
+
+
