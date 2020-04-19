@@ -17,5 +17,5 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 
 ## Quoting text
 
-Tal como dice Abraham Lincoln:
-> Con perdón de la expresión
+With an >
+> Hello, my friend!
