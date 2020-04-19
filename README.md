@@ -9,6 +9,6 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 
 *Italic*: **>>** Italic * or _ Italic _
 
-~~Strikethrough	~~ **>>** 	~~ Strikethrough 	~~
+~~Strikethrough~~ **>>** 	~~ Strikethrough 	~~
 
 **Bold and _nested italic_ **>>**
