@@ -18,10 +18,10 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 ## Quoting text
 
 Quote text with
-> **> Hello, my friend!**
+  > **> Hello, my friend!**
 
 Quote with single backticks.
-Use `` to see something like this `git status` 
+  Use `` to see something like this `git status` 
 
 To format code
 ```
@@ -32,5 +32,5 @@ git commit
 
 Links
 Wrappin link text
-[Google](www.google.com) **>>** [ TEXT ] AND THEN( URL )  
+  [Google](www.google.com) **>>** [ TEXT ] AND THEN( URL )  
 
