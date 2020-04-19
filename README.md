@@ -21,4 +21,4 @@ Quote text with
 > **> Hello, my friend!**
 
 Quote with single backticks.
-Use `git status` to list all new or modified files.
+Use **`text`** to see something like this `git status` 
