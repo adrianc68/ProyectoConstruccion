@@ -21,4 +21,4 @@ Quote text with
 > **> Hello, my friend!**
 
 Quote with single backticks.
-Use **`text`** to see something like this `git status` 
+Use **``text``** to see something like this `git status` 
