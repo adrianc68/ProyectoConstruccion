@@ -14,7 +14,7 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 *Italic* **:**
 
 
-> * Italic * or _ Italic _
+* Italic * or _ Italic _
 
 
 ~~Strikethrough~~	**:**
