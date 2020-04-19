@@ -30,5 +30,5 @@ git add
 git commit
 ```
 Links
-Wrappin link text in brackets [Google] and then (www.google.com) **>>** [ TEXT ] ( URL )  
+Wrappin link text in brackets [Google](www.google.com) **>>** [ TEXT ] AND THEN( URL )  
 
