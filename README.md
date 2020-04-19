@@ -24,7 +24,7 @@ Quote with single backticks.
 Use `` to see something like this `git status` 
 
 To format code
-Use ``` ```
+Use ***```***  ***```***
 ```
 git status
 git add
