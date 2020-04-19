@@ -5,15 +5,25 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 
 ## Styling text
 
-**Bold**: **>>** Bold  ** or __ Bold __
+** Bold  ** or __ Bold __
+**Bold**:
 
-*Italic*: **>>** Italic * or _ Italic _
 
-~~Strikethrough~~ **>>** 	~~ Strikethrough 	~~
+* Italic * or _ Italic _
+*Italic*:
 
-**Bold and _nested italic_ **>>**
 
-***All bold and italic*** **>>** *** All bold and italic ***
+~~ Strikethrough 	~~
+~~Strikethrough~~ **>>** 	
+
+
+** Bold and _ nested italic _ **
+**Bold and _nested italic_**
+
+
+*** All bold and italic ***
+***All bold and italic***
+
 
 ## Quoting text
 
@@ -24,7 +34,7 @@ Quote with single backticks.
 Use `` to see something like this `git status` 
 
 To format code
-Use ***```***  ***```***
+Use triple backticks (```) at the beginning of text and the end of it
 ```
 git status
 git add
@@ -32,6 +42,6 @@ git commit
 ```
 
 Links
-Wrappin link text \n
-[Google](www.google.com) **>>** [ TEXT ] AND THEN( URL )  
+To link use [ TEXT ] and then (URL)
+[Google](www.google.com) 
 
