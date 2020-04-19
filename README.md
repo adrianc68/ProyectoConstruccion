@@ -18,4 +18,4 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 ## Quoting text
 
 Quote text with
-> > Hello, my friend!
+> **> Hello, my friend!**
