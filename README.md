@@ -22,3 +22,11 @@ Quote text with
 
 Quote with single backticks.
 Use `` to see something like this `git status` 
+
+To format code
+Basic commands git
+```
+git status
+git add
+git commit
+```
