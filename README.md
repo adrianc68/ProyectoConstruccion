@@ -12,3 +12,9 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 ~~Strikethrough~~ **>>** 	~~ Strikethrough 	~~
 
 **Bold and _nested italic_ **>>**
+
+***All bold and italic*** **>>** *** All bold and italic ***
+
+## Quoting text
+
+Citation: >Hello, my friend!
