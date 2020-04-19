@@ -17,4 +17,4 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 
 ## Quoting text
 
-Citation: >Hello, my friend!
+Citation: >Hello, my friend!.
