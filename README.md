@@ -17,5 +17,5 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 
 ## Quoting text
 
-With an >
+With an > Text
 > Hello, my friend!
