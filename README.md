@@ -19,3 +19,6 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 
 Quote text with
 > **> Hello, my friend!**
+
+Quote with single backticks.
+Use `git status` to list all new or modified files.
