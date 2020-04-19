@@ -5,32 +5,32 @@ Proyecto se cambio a https://github.com/adrianc68/Practicas-Profesionales
 
 ## Styling text
 
-**Bold**:
+**Bold :**
 
 
 ** Bold  ** or __ Bold __
 
 
-*Italic*:
+*Italic* **:**
 
 
 > * Italic * or _ Italic _
 
 
-~~Strikethrough~~	
+~~Strikethrough~~	**:**
 
 
-~~ Strikethrough 	~~
+~~ Strikethrough 	**:**~~
 
 
-**Bold and _nested italic_**
+**Bold and _nested italic_ :**
 
 
 ** Bold and _ nested italic _ **
 
 
 
-***All bold and italic***
+***All bold and italic*** **:**
 
 
 *** All bold and italic ***
